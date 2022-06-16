@@ -7,6 +7,7 @@
 <title>Sistema bancario</title>
 </head>
 <body>
+	<h1>Sistema Bancario</h1>
 	<a href="CuentasController" >Redireccionar a Servlet</a>
 </body>
 </html>
